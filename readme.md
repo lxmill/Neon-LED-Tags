@@ -7,7 +7,8 @@
 * Intro to Electronics with LED Neon & El Wire
 
 
-![neon-sign-min](https://hackmd.io/_uploads/BJQ8r6NBa.png)
+![neon](https://hackmd.io/_uploads/BkhSACNST.png)
+
 
 
 **Inspirations**

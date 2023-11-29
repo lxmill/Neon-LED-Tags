@@ -1,6 +1,6 @@
 # Neon LED Signs Workshop
 
-## Contents
+**Workshop Program**
 * How to make your own LED Neon Sign
 * Intro to Vector Design with Inkscape
 * Intro to Digital Fabrication with Laser Cutter

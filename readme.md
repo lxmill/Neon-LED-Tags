@@ -6,7 +6,7 @@
 * Intro to Digital Fabrication with Laser Cutter
 * Intro to Electronics with LED Neon & El Wire
 
-![NEON](https://github.com/lxmill/Neon-LED-Tags/blob/[branch]/image.jpg?raw=true)
+![NEON](https://github.com/lxmill/Neon-LED-Tags/blob/main/img/neon.png?raw=true)
 
 **Inspirations**
 * [Neon Art: Ten Artists Who Defined the Medium](https://magazine.artland.com/neon-art-ten-artists-who-defined-the-medium/)

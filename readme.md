@@ -21,6 +21,7 @@
 
 
 **Materials & Where to Buy**
+
 [EfectoLED](https://www.efectoled.com/pt/?search&query=neon) | [LED Lux](https://www.ledlux.pt/epages/ea9822.sf/pt_PT/?ObjectPath=/Shops/ea9822/Categories/Fitas_LED/Neon_LED) | [TEMU](https://www.temu.com/search_result.html?search_key=Neon%20Light&search_method=user) | [LED Box](https://www.ledbox.es/pt/iluminacao-led/led-neon-flex) | [Mauser](https://mauser.pt)
 
 **Basic Tools & Materials needed to build the Neon Sign**

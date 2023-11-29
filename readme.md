@@ -1,36 +1,44 @@
-# Neon-LED-Tags
+# Neon LED Signs Workshop
+
+## Contents
+* How to make your own LED Neon Sign
+* Intro to Vector Design with Inkscape
+* Intro to Digital Fabrication with Laser Cutter
+* Intro to Electronics with LED Neon & El Wire
+
+
+![neon-sign-min](https://hackmd.io/_uploads/BJQ8r6NBa.png)
+
+
+**Inspirations**
+* [Neon Art: Ten Artists Who Defined the Medium](https://magazine.artland.com/neon-art-ten-artists-who-defined-the-medium/)
+* [Neon Art @ Instagram](https://www.instagram.com/neon__art/?hl=en)
+
+**Resources**
+* [How to Make a DIY LED Neon Sign](https://www.ledyilighting.com/pt/how-to-make-a-diy-led-neon-sign/)
+* [Download Inkscape](https://inkscape.org/)
+* [Learn Inkscape Basics](http://www.oficinasdoconvento.com/doku/doku.php?id=documentacao:inkscape)
+* [Learn Inkscape Dynamic Offset](https://youtu.be/om3I45Bg5Xs?si=mv1EVnH5Kvmy62tC)
+* [How to use the Laser Cutter Machine](http://www.oficinasdoconvento.com/doku/doku.php?id=documentacao:laser)
+
+
+**Materials & Where to Buy**
+
+Néon LED, El Wire, Power Supply & Fixing Accessories
+[EfectoLED](https://www.efectoled.com/pt/?search&query=neon) | [LED Lux](https://www.ledlux.pt/epages/ea9822.sf/pt_PT/?ObjectPath=/Shops/ea9822/Categories/Fitas_LED/Neon_LED) | [TEMU](https://www.temu.com/search_result.html?search_key=Neon%20Light&search_method=user) | [LED Box](https://www.ledbox.es/pt/iluminacao-led/led-neon-flex) | [Mauser](https://mauser.pt)
+
+**Basic Tools & Materials needed to build the Neon Sign**
+
+* 
 
 
 
-## Conteúdos
 
-[O que são e como funcionam os sinais Néon?](https:// "O que são e como funcionam os sinais de Néon LED?")	
+**Assembling the Neon Sign**
 
-## O que são e como funcionam os sinais Néon?
-
-Os letreiros de Néon tradicionais referem-se a letreiros elétricos feitos de tubos de vidro moldáveis cheios de gás inerte. Esses tubos iluminam quando a eletricidade passa por eles e podem ter diversas cores com base no uso de gases inertes. Por exemplo, o hidrogênio produz a cor vermelha e o hélio amarelo.
-
-No entanto os letreiros Néon tradicionais são muito caros, os letreiros LED Neon são uma opção mais econômica e acessível. 
-
-![NEON-min](https://hackmd.io/_uploads/S1E1ygGS6.png)
-
-Os letreiros Néon são feitos com tubos de vidro selados cheios de gases inertes. Os gases inertes são quimicamente inativos e requerem muita energia para ionização.
-
-
-Um letreiro de néon possui dois terminais de eletrodo e quando é aplicada uma tensão (geralmente corrente alternada. AC) nestes terminais, o gás inerte dentro do tubo ioniza e como resultado da troca de elétrons durante o processo de ionização, o tubo ilumina-se.
-
-
-A cor dos sinais de Néon depende dos gases dentro do tubo de vidro. Dentre todos os gases, o néon é mais famoso por sua cor laranja-avermelhada. É por isso que esses sinais/luzes têm o nome do gás Neon. Veja o gráfico abaixo para saber mais sobre as cores dos letreiros de néon.
-
-![tabela_cores_gases-min](https://hackmd.io/_uploads/HyqZS8MST.png)
-
-![gas-min](https://hackmd.io/_uploads/rybdH8zra.png)
-
-Assim, você pode fazer mais variantes de cores misturando esses gases em proporções adequadas.  
-
-
-**O que são e como funcionam os sinais de Néon LED?**
+**Hacks & Mods**
 
 
 
-tesryhgjm
+
+

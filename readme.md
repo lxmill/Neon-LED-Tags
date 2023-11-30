@@ -1,7 +1,7 @@
-# LED Neon Signs Workshop
+# LED Neon & El Wire Signs Workshop
 
 **Workshop Topics**
-* How to make your own LED Neon Sign
+* How to make your own LED Neon or El Wire Sign
 * Intro to Vector Design with Inkscape
 * Intro to Digital Fabrication with Laser Cutter
 * Intro to Electronics with LED Neon & El Wire
@@ -15,39 +15,47 @@
 * [NEon Art @ Pinterest](https://www.pinterest.com/boardofanintrovert/neon-art/)
 * [The Museum of Neon Art](https://www.neonmona.org/)
 * [Neon Creations](https://www.neoncreations.co.uk/pages/neon-art)
+* [Adafruit EL Wire Creations](https://learn.adafruit.com/search?q=el%2520wire)
 
 **Resources**
 * [How to Make a DIY LED Neon Sign](https://www.ledyilighting.com/pt/how-to-make-a-diy-led-neon-sign/)
 * [Download Inkscape](https://inkscape.org/)
-* [Learn Inkscape Basics](http://www.oficinasdoconvento.com/doku/doku.php?id=documentacao:inkscape)
-* [Learn Inkscape Dynamic Offset](https://youtu.be/om3I45Bg5Xs?si=mv1EVnH5Kvmy62tC)
+* [Learn Inkscape Basics](http://www.oficinasdoconvento.com/doku/doku.php?id=documentacao:inkscape) | [Inkscape - Video Tutorial](https://www.youtube.com/watch?v=8f011wdiW7g&list=PLqazFFzUAPc5lOQwDoZ4Dw2YSXtO7lWNv&index=1)
+* [Learn Inkscape Dynamic Offset](https://www.youtube.com/embed/om3I45Bg5Xs)
 * [How to use the Laser Cutter Machine](http://www.oficinasdoconvento.com/doku/doku.php?id=documentacao:laser)
+* [How to prepare the ends of the Strips and solder the power wires](https://www.youtube.com/embed/MoWX6QxM-OQ?app=desktop)
+* [A guide to LED Neon Power options](https://www.weloveleds.co.uk/blogs/advice-centre/led-neon-flex-voltage)
+* [How to work with EL Wire](https://www.youtube.com/embed/RJ2xGFfrND0)
 
-**Basic tools & Materials needed**
+**Materials**
 
-Materials:
+LED Neon Sign:
 
-* LED Neon Strip - Single Color or RGB, 12 or 24VDC
+* [LED Neon Strip - Single Color or RGB, 12 or 24VDC](https://www.efectoled.com/pt/comprar-tiras-led-neon-flex-220v-240v-ac/64764-bobina-neon-led-12v-dc-50-metros.html)
 * [3-key or remote RGB LED Mini Controller](https://www.temu.com/pt-en/led-lights-with-3-key-monochrome-and-3-key-rgb-controller-for-rgb-led-strip-lights-g-601099530646095.html)
 * Power Supply 2A
 * Connection Wire - Normal electrical cable 2 x 0.5mm²
 * A base or substrate - This can be wood, expanded PVC, acrylic or you can attach your sign directly to the wall.
 * Screws
-* LED Neon Strip Fix Clips Holder
+* [LED Neon Strip Fix Clip Holder](https://www.temu.com/goods.html?_bg_fs=1&goods_id=601099529520856&sku_id=17592273129947)
 * Dual face tape
+
+El Wire:
+
+* [Adafruit EL Wire Starter Pack ](https://www.adafruit.com/product/545)
 
 Tools:
 
-* Strong scissor to cut the LED Neon Strip
+* Strong scissor to cut the LED Neon Strip or EL Wire
 * Craft knife
 * Screwdriver and cutting plier
-* Soldering iron and consumables
+* Soldering Iron and consumables
 * Hot Gun Pistol and consumables
 
 
 **Materials & Where to Buy**
 
-[EfectoLED](https://www.efectoled.com/pt/?search&query=neon) | [LED Lux](https://www.ledlux.pt/epages/ea9822.sf/pt_PT/?ObjectPath=/Shops/ea9822/Categories/Fitas_LED/Neon_LED) | [TEMU](https://www.temu.com/search_result.html?search_key=Neon%20Light&search_method=user) | [LED Box](https://www.ledbox.es/pt/iluminacao-led/led-neon-flex) | [Mauser](https://mauser.pt)
+[EfectoLED](https://www.efectoled.com/pt/?search&query=neon) | [LED Lux](https://www.ledlux.pt/epages/ea9822.sf/pt_PT/?ObjectPath=/Shops/ea9822/Categories/Fitas_LED/Neon_LED) | [TEMU](https://www.temu.com/search_result.html?search_key=Neon%20Light&search_method=user) | [LED Box](https://www.ledbox.es/pt/iluminacao-led/led-neon-flex) | [Mauser](https://mauser.pt) | [Adafruit](https://www.adafruit.com/product/545)
 
 **Assembling the Neon Sign**
 
@@ -69,6 +77,9 @@ One of the most fun hack is to make some part of the [NEON Sign starting flicker
 
 
 It's very easy, just program it so that one of its I/O ports simulates a switch that switches between on and off randomly to be similar as a broken one, or programing more than one I/O port to make an animation.
+
+You can use the [MakeCode on-line platform](https://maker.makecode.com/#) to Learning to Code a Micro-Controller like Micro:bit, Pico, etc..
+
 
 
 
